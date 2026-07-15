@@ -64,7 +64,7 @@ public/
 
 ## Demo
 
-> Live site: _add your deployment URL here_ (e.g. Vercel / Netlify).
+> Live site: https://restaurant-demokbo.netlify.app/
 
 ### Screenshots
 
