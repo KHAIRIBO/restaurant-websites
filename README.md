@@ -68,9 +68,13 @@ public/
 
 ### Screenshots
 
-| Home / Hero | Menu | Verification bar (on screenshot / DevTools) |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
 | --- | --- | --- |
-| _add `docs/home.png`_ | _add `docs/menu.png`_ | _add `docs/verify.png`_ |
+| ![Screenshot 1](/screenshots/Screenshot%202026-07-15%20112721.png) | ![Screenshot 2](/screenshots/Screenshot%202026-07-15%20112732.png) | ![Screenshot 3](/screenshots/Screenshot%202026-07-15%20112746.png) |
+
+| Screenshot 4 | Screenshot 5 |
+| --- | --- |
+| ![Screenshot 4](/screenshots/Screenshot%202026-07-15%20112756.png) | ![Screenshot 5](/screenshots/Screenshot%202026-07-15%20113914.png) |
 
 To capture your own screenshots, run `npm run dev`, then save images into a
 `docs/` folder and reference them above.
