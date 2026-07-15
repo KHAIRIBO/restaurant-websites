@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative overflow-hidden">
       <div className="absolute inset-0">
         <Image
-          src="/image.png"
+          src="/screenshots/Screenshot 2026-07-15 112756.png"
           alt="Restaurant ambiance"
           fill
           priority
